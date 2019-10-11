@@ -11,6 +11,6 @@
 
 
 ## License
-Copyright © 2019, FluorFR. Released under the "Mozilla Public License Version 2.0" and Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR)
+Copyright © 2019, FluorFR. Released under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-https://creativecommons.org/licenses/by-sa/3.0/fr/
+https://creativecommons.org/licenses/by-nc-nd/4.0/
