@@ -11,4 +11,4 @@
 
 
 ## License
-Copyright © 2019, FluorFR. Released under the "Mozilla Public License Version 2.0"
+Copyright © 2019, FluorFR. Released under the "Mozilla Public License Version 2.0" and Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR) 
